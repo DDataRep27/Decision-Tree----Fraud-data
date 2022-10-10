@@ -1,8 +1,5 @@
 # Decision-Tree----Fraud-data
 
-### Prepare a model to predict on fraud data
-
-
-*Use decision trees to prepare a model on fraud data.*
-
-#### Treating those who have taxable_income <= 30000 as "Risky" and others are "Good".
+### Probelm Statement:
+***Prepare a decision trees model to predict on fraud data.
+Treating those who have taxable_income <= 30000 as "Risky" and others are "Good".***
